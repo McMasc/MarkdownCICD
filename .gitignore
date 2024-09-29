@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+out/
+
+# NuGet packages
+*.nupkg
+# Uncomment if you have the packages folder from NuGet prior to VS2015
+# packages/
+
+# Visual Studio Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio workspace and solution folders
+.vs/
+.idea/
+
+# Auto-generated files (e.g., from Entity Framework)
+*.generated.cs
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover reports
+*.dcvr
+
+# TeamCity build agent files
+_TeamCity*
+
+# Rider files
+*.s​⬤
